@@ -9,7 +9,7 @@ import java.util.Map;
 public class FindAllSubZeroSum {
 
     public static void main(String ar[]) {
-        int[] array = {3, 4, -7, 3, 1, 3, 1, -4, -2, -2};
+        int[] array = {3, 4, -7, 3, 1, 3, 1, -4, -2};
         checkzerSubarraylist(array);
     }
 
